@@ -1,7 +1,6 @@
 # ML Beginner Projects
 
-A polished portfolio of beginner-friendly machine learning exercises converted into a cleaner, more maintainable, and presentation-ready repository.
-
+Collection of beginner-friendly Machine Learning projects implemented in Python. Each project focuses on fundamental ML concepts, helping to build a solid foundation in data analysis, model training, and evaluation.
 ## Overview
 
 This repository contains three small but instructive machine learning projects covering classification and regression workflows:
